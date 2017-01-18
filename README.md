@@ -21,6 +21,7 @@
 - [计算生物学]
 - [理论计算机科学](https://github.com/JustFollowUs/Theoretical-Computer-Science)
 - [计算机图形学](https://github.com/JustFollowUs/Computer-Graphics)
+- [计算机安全](https://github.com/JustFollowUs/Computer-Security)
 - 其他(暂无，希望大伙一起加入完善)
 
 
