@@ -6,7 +6,6 @@
 ## 主要内容
 - [计算机专业必备技能](#cs_must)
 - [研究方向](#all_rearch_areas) 
-- [资料分享者](#Contributors)
 
 ##<h2 id="cs_must">计算机专业必备技能</h2> 
 
@@ -25,5 +24,3 @@
 - 其他(暂无，希望大伙一起加入完善)
 
 
-##<h2 id="Contributors">资料分享者</h2> 
-郭翔宇
